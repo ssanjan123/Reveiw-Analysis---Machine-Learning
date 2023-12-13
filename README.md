@@ -1,7 +1,7 @@
 
 # Sentiment Analysis Project
 
-This project focuses on building and deploying a machine learning model for sentiment analysis on movie reviews. The aim is to classify reviews into positive or negative sentiments. The repository contains all necessary code and trained models for this purpose.
+This project focuses on building and deploying a machine learning model for sentiment analysis on movie reviews. The aim is to classify reviews into positive or negative sentiments. The repository contains all necessary code and trained models for this purpose. For a full report and understanding of each parts please read the report on this project
 
 ## Repository Structure
 - `SentimentAnalysis.py`: Main script containing the model building, training, and evaluation processes.
